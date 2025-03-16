@@ -48,13 +48,10 @@ Jumper Wires & Resistors
 
 A Willing Hand to Slap ✋💀
 
-📷 Photos & GIFs
-
-Upload some funny images and GIFs of the Slap-O-Matic 420 in action!
 
 🎥 Demo Video
 
-Upload a YouTube video and put the link here!
+[![Watch the video](https://img.youtube.com/vi/-753_5VGEs4/0.jpg)](https://youtu.be/-753_5VGEs4)
 
 ⚠️ Warning: Absolute Madness Ahead!
 
